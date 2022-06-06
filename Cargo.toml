@@ -22,7 +22,7 @@ version = "1.0.125"
 features = ["derive"]
 
 [dependencies.tokio]
-version = "1.4.0"
+version = "1.8.4"
 features = ["macros", "rt-multi-thread"]
 
 [dependencies.simple_logger]
